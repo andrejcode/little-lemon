@@ -1,5 +1,5 @@
-import IntroSection from "./IntroSection";
-import restaurantInside from '../assets/images/restaurant-inside.jpg';
+import IntroSection from "../IntroSection/IntroSection";
+import restaurantInside from '../../assets/images/restaurant-inside.jpg';
 import './About.css';
 
 function About() {

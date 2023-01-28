@@ -1,4 +1,4 @@
-import IntroSection from "./IntroSection";
+import IntroSection from "../IntroSection/IntroSection";
 
 function ConfirmPage() {
   return (

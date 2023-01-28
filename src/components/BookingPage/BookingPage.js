@@ -1,5 +1,4 @@
-import { Fragment } from 'react';
-import BookingForm from './BookingForm';
+import BookingForm from '../BookingForm/BookingForm';
 import './BookingPage.css';
 
 function Booking() {

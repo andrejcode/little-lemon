@@ -1,5 +1,5 @@
-import logo from '../assets/images/little-lemon-logo.png';
-import Nav from './Nav';
+import logo from '../../assets/images/little-lemon-logo.png';
+import Nav from '../Nav/Nav';
 import './Header.css';
 
 function Header() {

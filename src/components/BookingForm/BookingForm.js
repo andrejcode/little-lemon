@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
 function BookingForm({ onSubmit }) {
@@ -49,7 +49,7 @@ function BookingForm({ onSubmit }) {
     submitAPI();
     navigateToConfirmPage();
     onSubmit({ availableTimes });
-  }
+  };
 
   return (
     <form onSubmit={handleSubmit}>

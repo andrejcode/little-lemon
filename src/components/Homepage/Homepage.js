@@ -1,7 +1,7 @@
-import IntroSection from "./IntroSection";
-import greekSalad from '../assets/images/greek-salad.jpg';
-import bruschetta from '../assets/images/bruschetta.jpg';
-import dessert from '../assets/images/dessert.jpg';
+import IntroSection from "../IntroSection/IntroSection";
+import greekSalad from '../../assets/images/greek-salad.jpg';
+import bruschetta from '../../assets/images/bruschetta.jpg';
+import dessert from '../../assets/images/dessert.jpg';
 import './Homepage.css';
 
 

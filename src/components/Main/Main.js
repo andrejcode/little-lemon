@@ -1,8 +1,8 @@
 import { Routes, Route } from 'react-router-dom';
-import Homepage from './Homepage';
-import Booking from './BookingPage';
-import About from './About';
-import ConfirmPage from './ConfirmPage';
+import Homepage from '../Homepage/Homepage';
+import Booking from '../BookingPage/BookingPage';
+import About from '../About/About';
+import ConfirmPage from '../ConfirmPage/ConfirmPage';
 
 function Main() {
   return (

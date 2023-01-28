@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom';
-import restaurantTable from '../assets/images/restaurant-table.jpg';
+import restaurantTable from '../../assets/images/restaurant-table.jpg';
 import './IntroSection.css';
 
 function IntroSection() {
